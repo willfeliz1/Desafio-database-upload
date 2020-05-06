@@ -15,7 +15,7 @@ export default class CreateTransactions1588786694281
             default: 'uuid_generate_v4()',
           },
           {
-            name: 'Salário',
+            name: 'title',
             type: 'varchar',
           },
           {
