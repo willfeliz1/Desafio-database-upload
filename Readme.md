@@ -17,7 +17,7 @@ The main objective of this challenge is to insert records to the database throug
 * [TypeORM] - an ORM that can run in Nodej, browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript
 * [Yarn] - package manager that doubles down as project manager.
 
-## 💻 Instalation
+## 💻 Installation
 
 ### Docker
 
